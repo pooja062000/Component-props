@@ -1,8 +1,8 @@
 
-import Home from './Components.js/Home';
-import About from './Components.js/About';
-import Contact from './Components.js/Contact';
-import Header from './Components.js/Header';
+import Home from './Components/Home';
+import About from './Components/About';
+import Contact from './Components/Contact';
+import Header from './Components/Header';
 import { Routes, Route } from 'react-router-dom'
 import './App.css';
 
