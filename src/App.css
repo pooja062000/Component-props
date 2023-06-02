@@ -45,3 +45,14 @@ a{
   padding: 15px;
   font-size: 22px;
 }
+
+.image{
+  width: 80%;
+height: 800px;
+margin: 0 auto;
+margin-top: 40px;
+background-image: url('https://th.bing.com/th/id/OIP.E-FPCljAeBV2KtRvBHU9IgHaHa?pid=ImgDet&rs=1');
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+}
